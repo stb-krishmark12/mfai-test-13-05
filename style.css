@@ -1,0 +1,42 @@
+body {
+   
+    justify-content: space-evenly;
+
+    height: 1000px;
+    
+   
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+  
+h1 {
+    text-align: center;
+}
+  
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+  
+select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+
+.movie-details{
+    transition: 0.5s;
+    text-align: center;
+    align-content: center;
+    margin-top: 20px;
+        color: black;
+        height: 50px;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px rgb(94, 94, 94);
+}
